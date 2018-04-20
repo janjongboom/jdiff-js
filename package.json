@@ -1,0 +1,30 @@
+{
+  "name": "jdiff-js",
+  "version": "1.0.0",
+  "description": "JojoDiff for JavaScript",
+  "main": "jdiff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janjongboom/jdiff-js.git"
+  },
+  "bin": {
+    "jdiff": "./jdiff.js"
+  },
+  "keywords": [
+    "diff",
+    "jojodiff",
+    "janpatch"
+  ],
+  "authors": [
+    "Joris Heirbaut",
+    "Jan Jongboom <janjongboom@gmail.com>"
+  ],
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/janjongboom/jdiff-js/issues"
+  },
+  "homepage": "https://github.com/janjongboom/jdiff-js#readme"
+}
